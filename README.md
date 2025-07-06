@@ -1,18 +1,37 @@
-# 🎮 Proyecto 1 – Ventas de Videojuegos
+# 📊 Proyectos Power BI – Andrés Benegas
 
-Este reporte analiza las ventas históricas en la industria de videojuegos a nivel global, categorizadas por:
+Este repositorio contiene una colección de reportes realizados en Power BI como parte de mi formación y práctica en análisis de datos.
 
-- Región (Norteamérica, Europa, Japón, Otros)
-- Plataforma (Wii, PS2, X360, etc.)
-- Género (Acción, Deportes, Aventura, etc.)
-- Año de lanzamiento
+Cada proyecto incluye su archivo `.pbix` editable, visualización en PDF, capturas y un `README.md` explicativo con el enfoque y objetivos.
 
 ---
 
-## 📂 Archivos
+## 📁 Índice de Proyectos
 
-- `proyecto1_andres_benegas.pbix`: archivo original de Power BI
-- `Ventas+Videojuegos.xlsx`: archivo origen donde se extraen los datos
-
+| Proyecto | Descripción |
+|----------|-------------|
+| [Proyecto 1: Ventas de Videojuegos](./proyecto_1_ventas_videojuegos) | Análisis de ventas globales en la industria de videojuegos por región, género y plataforma. |
+| [Proyecto 2: Ingresos Regionales](./proyecto_2_ingresos_regionales) | Visualización de ingresos por país, tipo de producto y período. |
+| [Proyecto 3: Satisfacción de Clientes](./proyecto_3_satisfaccion_clientes) | Encuestas de satisfacción por área, canal de atención y evolución temporal. |
+| [Proyecto 4: Seguimiento en Red Social](./proyecto_4_analisis_red_social) | Análisis de relaciones de seguimiento entre usuarios y métricas de actividad. |
 
 ---
+
+## 👨‍💻 Autor
+
+**Andrés Benegas**  
+Estudiante de Tecnicatura Universitaria en Programación – UTN  
+🔗 [LinkedIn](https://www.linkedin.com/in/andres-benegas/)  
+📧 [Gmail] (andrescirobenegas@gmail.com)
+
+---
+
+## 📎 Tecnologías utilizadas
+
+- Power BI Desktop
+- Modelado de datos
+- DAX básico
+- Diseño visual y storytelling
+
+---
+

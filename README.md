@@ -12,7 +12,7 @@ Cada proyecto incluye su archivo `.pbix` editable, visualización en PDF, captur
 |----------|-------------|
 | [Proyecto 1: Ventas de Videojuegos](proyecto_1_videojuegos) | Análisis de ventas globales en la industria de videojuegos por región, género y plataforma. |
 | [Proyecto 2: Ingresos Regionales](./proyecto_2_ingresos_regionales) | Visualización de ingresos por país, tipo de producto y período. |
-| [Proyecto 3: Satisfacción de Clientes](./proyecto_3_satisfaccion_clientes) | Encuestas de satisfacción por área, canal de atención y evolución temporal. |
+| [Proyecto 3: Satisfacción de Clientes](./proyecto_3_recursos_humanos) | Encuestas de satisfacción por área, canal de atención y evolución temporal. |
 | [Proyecto 4: Seguimiento en Red Social](./proyecto_4_analisis_red_social) | Análisis de relaciones de seguimiento entre usuarios y métricas de actividad. |
 
 ---

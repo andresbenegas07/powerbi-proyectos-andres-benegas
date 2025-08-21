@@ -26,7 +26,7 @@ Estudiante de Tecnicatura Universitaria en Programación – UTN
 
 ---
 
-## 📎 Tecnologías utilizadas
+## 📎 Tecnologías y habilidades utilizadas
 
 - Power BI Desktop
 - Modelado de datos

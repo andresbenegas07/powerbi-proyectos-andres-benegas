@@ -30,7 +30,7 @@ Estudiante de Tecnicatura Universitaria en Programación – UTN
 
 - Power BI Desktop
 - Modelado de datos
-- DAX básico
+- DAX
 - Diseño visual y storytelling
 
 ---

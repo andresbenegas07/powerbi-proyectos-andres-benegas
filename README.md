@@ -29,9 +29,6 @@ Estudiante de Tecnicatura Universitaria en Programación – UTN
 ## 📎 Tecnologías y habilidades utilizadas
 
 - Power BI Desktop
-- Modelado de datos
 - DAX
-- Diseño visual y storytelling
-
 ---
 
